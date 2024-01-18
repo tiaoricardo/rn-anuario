@@ -8,6 +8,24 @@
       "expo-router"
     ],
     "name": "anuario",
-    "slug": "anuario"
+    "slug": "anuario",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "bac82ab2-2a03-42e7-989c-1ac2fc0f61c4"
+      }
+    },
+    "android": {
+      "package": "br.com.anuariodopiaui.app"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/bac82ab2-2a03-42e7-989c-1ac2fc0f61c4"
+    },
+    "ios": {}
   }
 }
